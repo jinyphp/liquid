@@ -27,7 +27,7 @@
         "php": ">= 7.0",
         "liquid/liquid": "^1.4",
         "webuni/front-matter": "^1.1",
-        "jiny/yaml": "dev-master"
+        "jiny/yaml": "^0.0.1"
     },
     "autoload": {
         "psr-4": {
